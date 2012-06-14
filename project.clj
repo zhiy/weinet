@@ -4,6 +4,6 @@
                            [noir "1.3.0-beta3"]
                            [clj-http "0.4.3"]
                            [hiccup "1.0.0"]
-                           [clj-webdriver "0.6.0-alpha9"]]
+                           [clj-webdriver "0.6.0-alpha8"]]
             :main weinet.server)
 
